@@ -55,6 +55,9 @@ a {
     text-decoration: none;
     
 }
+a:hover {
+    color: #ff8000;
+}
 .brand button {
     font-size: 3rem;
     padding: 0.5rem;
@@ -86,13 +89,13 @@ a {
     right: 0.5rem;
     top: 1.5rem;
     }
-    •products { 
+    .products { 
         display: flex;
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
         }
-    •products li {
+    .products li {
         list-style-type: none;
         padding: 0;
         flex: 0 1 34rem;
