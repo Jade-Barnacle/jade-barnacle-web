@@ -25,6 +25,6 @@ const data = {
           numberOfReviews: 15,
         },
       ]
-    }
-  export default data;
+    };
+    export default data;
   
