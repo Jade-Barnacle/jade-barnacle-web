@@ -171,7 +171,7 @@ tbody > tr:nth-child(odd) {
   flex-direction: column;
   width: 32rem;
   padding: 2rem;
-  border: 0.1rem #c0c0c0c0 solid;
+  border: 0.1rem #c0c0c0 solid;
   border-radius: 0.5rem;
   list-style-type: none;
 }
@@ -183,7 +183,7 @@ tbody > tr:nth-child(odd) {
 }
 input {
   padding: 1rem;
-  border: 0.1rem #c0c0c0c0 solid;
+  border: 0.1rem #c0c0c0 solid;
   border-radius: 0.5rem;
 }
 .bg-red {
